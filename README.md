@@ -53,8 +53,11 @@ Graphics
  
     a. Traps
     
+    ![box](https://user-images.githubusercontent.com/73158904/96831437-aa899200-146f-11eb-82f5-33c4fedfc9b2.png)
     
     b. tile
+    
+    ![tile](https://user-images.githubusercontent.com/73158904/96831464-b8d7ae00-146f-11eb-8d46-83557984e256.png)
     
  3. Other
     a. Score
