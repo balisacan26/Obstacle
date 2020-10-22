@@ -44,7 +44,7 @@ Audio / Music:
 Graphics
  1. Characters
     a. Player
-    file:///C:/Users/makoy/Desktop/FINAL/Obstacles/assets/player.png
+    
  2. Ambient 
     a. Traps
     
