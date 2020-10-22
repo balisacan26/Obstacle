@@ -47,9 +47,9 @@ Graphics
     file:///C:/Users/makoy/Desktop/FINAL/Obstacles/assets/player.png
  2. Ambient 
     a. Traps
-    file:///C:/Users/makoy/Desktop/FINAL/Obstacles/assets/box.png
+    
     b. tile
-    file:///C:/Users/makoy/Desktop/FINAL/Obstacles/assets/tile.png
+    
  3. Other
     a. Score
 							
