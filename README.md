@@ -40,13 +40,15 @@ The game will be Mobile Cross-platform: iOS, Android, Windows Phone. Follow with
 ## Fonts : 
 ## Audio / Music: 
 ## Graphics
-### 1. Characters
+
+
+ 1. Characters
 
     a. Player
     
     ![player](https://user-images.githubusercontent.com/73158904/96831338-7d3ce400-146f-11eb-8a96-6eca7cec6d43.png)
     
-### 2. Ambient 
+ 2. Ambient 
  
  
     a. Traps
@@ -57,7 +59,7 @@ The game will be Mobile Cross-platform: iOS, Android, Windows Phone. Follow with
     
     ![tile](https://user-images.githubusercontent.com/73158904/96831464-b8d7ae00-146f-11eb-8d46-83557984e256.png)
     
-### 3. Other
+ 3. Other
     a. Score
 							
 ## Demographics 
