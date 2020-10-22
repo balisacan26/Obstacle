@@ -44,7 +44,7 @@ Audio / Music:
 Graphics
  1. Characters
     a. Player
-    
+    ![player](https://user-images.githubusercontent.com/73158904/96831338-7d3ce400-146f-11eb-8a96-6eca7cec6d43.png)
  2. Ambient 
     a. Traps
     
